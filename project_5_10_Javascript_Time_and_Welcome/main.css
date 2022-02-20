@@ -1,0 +1,72 @@
+body {
+    background: black;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+img {
+    margin-top: 120px;
+    width: 17%;
+}
+html,body {
+    height: 100%;
+}
+body {
+    background: #0f3854;
+    background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+    background-size: 100%;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+#DigitalCLOCK {
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+    text-align: center;
+    left: 50%;
+    top: 50px;
+    transform: translate(-50%, -50%);
+    color: #daf6ff;
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1), 0 0 20px rgba(10, 175, 230, 0);
+    position: relative;
+    font-size: 60px;
+}
+.time {
+    letter-spacing: 0.05em;
+    font-size: 80px;
+    padding: 5px 0;
+    position:relative;
+    top: 140px;
+}
+.date {
+    letter-spacing: 0.1em;
+    font-size: 24px;
+    position: relative;
+    top: 140px;
+}
+.text {
+    letter-spacing: 0.1em;
+    font-size: 12px;
+    padding: 20px 0 0;
+    position: relative;
+    top: 130px;
+}
