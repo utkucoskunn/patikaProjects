@@ -1,0 +1,28 @@
+.jumbotron{
+    text-align: center;
+}
+.list-group{
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-bottom: 2em;
+    text-align: left;
+}
+.card{
+    float: left;
+}
+.card-img-top{
+     width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+.card{
+    margin-bottom: 100px;
+}
+
+.btn-primary{
+    margin-left: 3em;
+}
+.card-header{
+    color: gold;
+}
