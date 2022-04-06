@@ -7,5 +7,4 @@ let r=arg[0]*1;
 
 if(r>0){
     console.log(`Area=${calculateArea(r)}`);
-    console.log(typeof r);
 }
