@@ -2,9 +2,10 @@
   "name": "patikaprojects",
   "version": "1.0.0",
   "description": "PCAT Photo App",
-  "main": "Assignment_6_Writing_a_Web_Server_with_Koa.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,10 +18,12 @@
   },
   "homepage": "https://github.com/utkucoskunn/patikaProjects#readme",
   "dependencies": {
-    "koa": "^2.13.4"
+    "express": "^4.17.3"
   },
-  "devDependencies": {},
   "keywords": [
     "app.js"
-  ]
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
