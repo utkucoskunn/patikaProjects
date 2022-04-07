@@ -1,0 +1,22 @@
+{
+  "name": "patikaprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Assignment_6_Writing_a_Web_Server_with_Koa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkucoskunn/patikaProjects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkucoskunn/patikaProjects/issues"
+  },
+  "homepage": "https://github.com/utkucoskunn/patikaProjects#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
