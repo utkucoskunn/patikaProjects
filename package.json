@@ -1,7 +1,7 @@
 {
   "name": "patikaprojects",
   "version": "1.0.0",
-  "description": "",
+  "description": "PCAT Photo App",
   "main": "Assignment_6_Writing_a_Web_Server_with_Koa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/utkucoskunn/patikaProjects#readme",
   "dependencies": {
     "koa": "^2.13.4"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "app.js"
+  ]
 }
