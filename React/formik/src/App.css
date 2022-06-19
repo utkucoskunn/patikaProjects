@@ -1,0 +1,9 @@
+.App {
+  justify-content: center;
+  background-color: aqua;
+  align-items: center;
+}
+
+label{
+  display: block;
+}
